@@ -13,4 +13,5 @@ Route::get('/status', function () {
 });
 
 Route::apiResource('users', UserController::class);
+Route::apiResource('genres', GenreController::class);
 
