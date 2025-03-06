@@ -53,3 +53,11 @@ php artisan serve
 A API estará disponível em: **http://localhost:8000/api/**
 
 ---
+
+## Importação de Collection (Postman)
+
+Disponibilizado o arquivo de teste de rotas dentro do projeto em docs/postman-collections
+
+Com o Postman aberto, vá em Menu -> File -> Import
+
+Arraste o arquivo **Biblioteca-api.postman_collection.json** para dentro da caixa de transmissão.
