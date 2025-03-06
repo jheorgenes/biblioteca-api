@@ -6,6 +6,9 @@ Este projeto é um sistema simples de gerenciamento de biblioteca, desenvolvido 
 
 ## Configuração do Ambiente
 
+### **Observação Importante**
+Foi publicado o arquivo .env propositalmente, por se tratar de um projeto de teste e pra facilitar o download do mesmo.
+
 ### 1 Instalar Dependências do Laravel
 
 ```bash
